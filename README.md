@@ -5,7 +5,6 @@
 
 Mais informações sobre mim:
 
-- 🔭 I’m currently working on ...
 - 🌱 Atualmente estou aprendendo Ciência de dados, Analise de dados, Python, R, SAS
 - 👯 Gosto de colaborar em outros projetos
 - 🤔 Gosto de colaborar com outras pessoas em codificação.
