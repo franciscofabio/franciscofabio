@@ -1,5 +1,6 @@
 ### Conheça mais sobre mim! 👋
 
+- Atualmente estou aprendendo Ciência de dados, Analise de dados, Python, R, SAS
 <!--
 **franciscofabio/franciscofabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
